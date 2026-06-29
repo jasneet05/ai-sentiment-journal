@@ -1,0 +1,22 @@
+# Secrets - NEVER push
+.env
+*.env
+
+# Logs
+*.log
+
+# Frontend build artifacts
+node_modules/
+dist/
+dist-ssr/
+
+# Java build artifacts
+target/
+
+# IDE folders
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
