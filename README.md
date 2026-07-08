@@ -19,6 +19,14 @@
 
 ---
 
+## 🎥 Project Demo
+
+Experience the AI-Powered Journaling Platform in action! Check out our live walkthrough:
+
+👉 **[Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1Aw_YNPUAhqUgg8nlGH4dKV6QKY6HVrH8/view?usp=sharing)**
+
+---
+
 ## 🏗 System Architecture
 
 The following diagram illustrates how the components, data stores, and asynchronous background pipelines interact:
